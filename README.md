@@ -1,6 +1,6 @@
 ![logo](github-header-image(1).png)
 <h1 align="center">Hi 👋, I'm Roshan kumar</h1>
-<h3 align="center">A 2nd year Engineering Student and Android developer from India</h3>
+<h3 align="center">A Final year Engineering Student and Android developer from India</h3>
 
 <img align ="right" alt ="android Dvelopment"  width="450"  src="https://miro.medium.com/v2/resize:fit:1400/1*V4cV-UpcOn5sJ3hB75vdvA.gif">
 
@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/ingineerbabu" target="blank"><img src="https://img.shields.io/twitter/follow/ingineerbabu?logo=twitter&style=for-the-badge" alt="ingineerbabu" /></a> </p>
 
-- 🔭 I’m currently working on [Chagro](https://github.com/RoshanKumar404/ChaGro)
+- 🔭 I’m currently working on [Detector](https://github.com/RoshanKumar404/Detecto)
 
-- 🌱 I’m currently learning **Android Development in React Native**
+- 🌱 I’m currently learning and Practicing **Android Development in React Native and Kotlin**
 
-- 💬 Ask me about **Javascript , React-Native**
+- 💬 Ask me about **Javascript , React-Native,JAVA, Kotlin**
 
 - 📫 How to reach me **roshankuar951@gmail.com**
 
